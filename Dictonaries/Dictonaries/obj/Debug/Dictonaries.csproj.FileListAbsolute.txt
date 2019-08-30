@@ -1,0 +1,7 @@
+C:\Users\v-andick\source\repos\Dictonaries\Dictonaries\obj\Debug\Dictonaries.csprojAssemblyReference.cache
+C:\Users\v-andick\source\repos\Dictonaries\Dictonaries\obj\Debug\Dictonaries.csproj.CoreCompileInputs.cache
+C:\Users\v-andick\source\repos\Dictonaries\Dictonaries\bin\Debug\Dictonaries.exe.config
+C:\Users\v-andick\source\repos\Dictonaries\Dictonaries\bin\Debug\Dictonaries.exe
+C:\Users\v-andick\source\repos\Dictonaries\Dictonaries\bin\Debug\Dictonaries.pdb
+C:\Users\v-andick\source\repos\Dictonaries\Dictonaries\obj\Debug\Dictonaries.exe
+C:\Users\v-andick\source\repos\Dictonaries\Dictonaries\obj\Debug\Dictonaries.pdb

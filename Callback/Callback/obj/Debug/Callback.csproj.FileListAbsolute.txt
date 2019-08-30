@@ -1,0 +1,6 @@
+C:\Users\v-andick\source\repos\Callback\Callback\obj\Debug\Callback.csproj.CoreCompileInputs.cache
+C:\Users\v-andick\source\repos\Callback\Callback\bin\Debug\Callback.exe.config
+C:\Users\v-andick\source\repos\Callback\Callback\bin\Debug\Callback.exe
+C:\Users\v-andick\source\repos\Callback\Callback\bin\Debug\Callback.pdb
+C:\Users\v-andick\source\repos\Callback\Callback\obj\Debug\Callback.exe
+C:\Users\v-andick\source\repos\Callback\Callback\obj\Debug\Callback.pdb

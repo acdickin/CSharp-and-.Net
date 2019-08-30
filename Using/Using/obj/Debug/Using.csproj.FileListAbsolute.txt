@@ -1,0 +1,6 @@
+C:\Users\v-andick\source\repos\Using\Using\obj\Debug\Using.csproj.CoreCompileInputs.cache
+C:\Users\v-andick\source\repos\Using\Using\bin\Debug\Using.exe.config
+C:\Users\v-andick\source\repos\Using\Using\bin\Debug\Using.exe
+C:\Users\v-andick\source\repos\Using\Using\bin\Debug\Using.pdb
+C:\Users\v-andick\source\repos\Using\Using\obj\Debug\Using.exe
+C:\Users\v-andick\source\repos\Using\Using\obj\Debug\Using.pdb

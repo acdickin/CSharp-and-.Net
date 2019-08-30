@@ -1,0 +1,7 @@
+C:\Users\v-andick\source\repos\Nulls\Nulls\bin\Debug\Nulls.exe.config
+C:\Users\v-andick\source\repos\Nulls\Nulls\bin\Debug\Nulls.exe
+C:\Users\v-andick\source\repos\Nulls\Nulls\bin\Debug\Nulls.pdb
+C:\Users\v-andick\source\repos\Nulls\Nulls\obj\Debug\Nulls.csproj.CoreCompileInputs.cache
+C:\Users\v-andick\source\repos\Nulls\Nulls\obj\Debug\Nulls.exe
+C:\Users\v-andick\source\repos\Nulls\Nulls\obj\Debug\Nulls.pdb
+C:\Users\v-andick\source\repos\Nulls\Nulls\obj\Debug\Nulls.csprojAssemblyReference.cache
